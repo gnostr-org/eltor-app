@@ -2,7 +2,7 @@
 
 Client app for the El Tor network. It configures the torrc file with extra bolt12 settings. 
 
-![Alt text](./public/eltor-flow.png)
+![Alt text](public/eltor-flow.png)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
